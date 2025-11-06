@@ -1,0 +1,40 @@
+2025-09-17 19:40:45 [@DESKTOP-JUAN]
+[login] 3: glpi  inicio de sesión desde IP ::1
+2025-09-17 20:19:34 [2@DESKTOP-JUAN]
+[setup] [Plugin 2] 3: El complemento Form Creator ha sido instalado por glpi (2).
+2025-09-17 20:19:53 [2@DESKTOP-JUAN]
+[setup] [Plugin 3] 3: El complemento Form Creator ha sido activado por glpi (2).
+2025-09-17 20:24:46 [@DESKTOP-JUAN]
+[login] 3: glpi  inicio de sesión desde IP ::1
+2025-10-10 02:14:09 [@DESKTOP-JUAN]
+[login] 3: Fallo en el acceso de root desde la IP ::1
+2025-10-10 02:14:17 [@DESKTOP-JUAN]
+[login] 3: Fallo en el acceso de admin desde la IP ::1
+2025-10-10 02:14:37 [@DESKTOP-JUAN]
+[login] 3: glpi  inicio de sesión desde IP ::1
+2025-10-10 02:37:07 [@DESKTOP-JUAN]
+[login] 3: user login desde IP 127.0.0.1
+2025-10-10 02:42:27 [@DESKTOP-JUAN]
+[login] 3: Login fallido de  desde IP 127.0.0.1
+2025-10-10 02:42:32 [@DESKTOP-JUAN]
+[login] 3: user login desde IP 127.0.0.1
+2025-10-10 04:14:35 [@DESKTOP-JUAN]
+[login] 3: glpi login desde IP 127.0.0.1
+2025-10-10 04:22:23 [@DESKTOP-JUAN]
+[login] 3: Fallo en el acceso de glip desde la IP ::1
+2025-10-10 04:22:30 [@DESKTOP-JUAN]
+[login] 3: glpi  inicio de sesión desde IP ::1
+2025-10-10 17:23:00 [@DESKTOP-JUAN]
+[login] 3: glpi  inicio de sesión desde IP ::1
+2025-10-10 17:38:54 [@DESKTOP-JUAN]
+[login] 3: glpi  inicio de sesión desde IP ::1
+2025-10-28 14:49:39 [@DESKTOP-JUAN]
+[login] 3: Login fallido de glpi desde IP 127.0.0.1
+2025-10-28 14:49:50 [@DESKTOP-JUAN]
+[login] 3: glpi login desde IP 127.0.0.1
+2025-10-28 14:52:42 [@DESKTOP-JUAN]
+[login] 3: glpi  inicio de sesión desde IP ::1
+2025-11-06 02:20:25 [@DESKTOP-JUAN]
+[login] 3: Fallo en el acceso de glpi desde la IP ::1
+2025-11-06 02:20:31 [@DESKTOP-JUAN]
+[login] 3: glpi  inicio de sesión desde IP ::1

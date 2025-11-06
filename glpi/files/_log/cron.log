@@ -1,0 +1,100 @@
+2025-09-17 19:40:37 [@DESKTOP-JUAN]
+Interno #1: Ejecutar contract
+2025-09-17 20:18:20 [2@DESKTOP-JUAN]
+Interno #1: Ejecutar infocom
+2025-09-17 20:24:32 [@DESKTOP-JUAN]
+Interno #1: Ejecutar mailgate
+2025-09-17 20:24:41 [@DESKTOP-JUAN]
+Interno #1: Ejecutar session
+2025-09-17 20:25:01 [@DESKTOP-JUAN]
+Interno #1: Ejecutar graph
+2025-10-10 02:14:05 [@DESKTOP-JUAN]
+Interno #1: Ejecutar reservation
+2025-10-10 02:14:13 [@DESKTOP-JUAN]
+Interno #1: Ejecutar closeticket
+2025-10-10 02:14:32 [@DESKTOP-JUAN]
+Interno #1: Ejecutar alertnotclosed
+2025-10-10 02:35:18 [2@DESKTOP-JUAN]
+Interno #1: Ejecutar slaticket
+2025-10-10 02:37:01 [@DESKTOP-JUAN]
+Interno #1: Lanzar createinquest
+2025-10-10 02:41:17 [2@DESKTOP-JUAN]
+Interno #1: Ejecutar watcher
+2025-10-10 02:42:22 [7@DESKTOP-JUAN]
+Interno #1: Ejecutar RecurrentItems
+2025-10-10 02:42:28 [@DESKTOP-JUAN]
+Interno #1: Lanzar planningrecall
+2025-10-10 02:46:26 [2@DESKTOP-JUAN]
+Interno #1: Ejecutar queuednotification
+2025-10-10 02:49:18 [7@DESKTOP-JUAN]
+Interno #1: Ejecutar queuednotificationclean
+2025-10-10 02:54:19 [2@DESKTOP-JUAN]
+Interno #1: Ejecutar temp
+2025-10-10 02:54:47 [7@DESKTOP-JUAN]
+Interno #1: Ejecutar mailgateerror
+2025-10-10 03:03:54 [7@DESKTOP-JUAN]
+Interno #1: Ejecutar certificate
+2025-10-10 03:09:18 [7@DESKTOP-JUAN]
+Interno #1: Ejecutar olaticket
+2025-10-10 03:15:12 [7@DESKTOP-JUAN]
+Interno #1: Ejecutar mailgate
+2025-10-10 03:21:55 [7@DESKTOP-JUAN]
+Interno #1: Ejecutar graph
+2025-10-10 03:28:31 [7@DESKTOP-JUAN]
+Interno #1: Ejecutar contract
+2025-10-10 04:10:45 [2@DESKTOP-JUAN]
+Interno #1: Ejecutar infocom
+2025-10-10 04:14:31 [@DESKTOP-JUAN]
+Interno #1: Lanzar session
+2025-10-10 04:22:17 [@DESKTOP-JUAN]
+Interno #1: Ejecutar slaticket
+2025-10-10 04:22:25 [@DESKTOP-JUAN]
+Interno #1: Ejecutar planningrecall
+2025-10-10 04:23:11 [@DESKTOP-JUAN]
+Interno #1: Ejecutar queuednotification
+2025-10-10 17:22:54 [@DESKTOP-JUAN]
+Interno #1: Ejecutar reservation
+2025-10-10 17:32:36 [@DESKTOP-JUAN]
+Interno #1: Ejecutar olaticket
+2025-10-10 17:38:48 [@DESKTOP-JUAN]
+Interno #1: Ejecutar mailgate
+2025-10-10 17:41:08 [@DESKTOP-JUAN]
+Interno #1: Ejecutar RecurrentItems
+2025-10-28 14:49:33 [@DESKTOP-JUAN]
+Interno #1: Lanzar temp
+2025-10-28 14:49:42 [@DESKTOP-JUAN]
+Interno #1: Lanzar graph
+2025-10-28 14:52:17 [@DESKTOP-JUAN]
+Interno #1: Lanzar queuednotification
+2025-10-28 14:52:37 [@DESKTOP-JUAN]
+Interno #1: Ejecutar slaticket
+2025-10-28 14:55:57 [@DESKTOP-JUAN]
+Interno #1: Ejecutar planningrecall
+2025-11-06 02:20:17 [@DESKTOP-JUAN]
+Interno #1: Ejecutar closeticket
+2025-11-06 02:20:28 [@DESKTOP-JUAN]
+Interno #1: Ejecutar alertnotclosed
+2025-11-06 02:26:10 [2@DESKTOP-JUAN]
+Interno #1: Ejecutar olaticket
+2025-11-06 03:05:21 [2@DESKTOP-JUAN]
+Interno #1: Ejecutar mailgate
+2025-11-06 03:14:31 [2@DESKTOP-JUAN]
+Interno #1: Ejecutar reservation
+2025-11-06 03:26:39 [2@DESKTOP-JUAN]
+Interno #1: Ejecutar RecurrentItems
+2025-11-06 03:35:36 [2@DESKTOP-JUAN]
+Interno #1: Ejecutar createinquest
+2025-11-06 03:41:10 [2@DESKTOP-JUAN]
+Interno #1: Ejecutar watcher
+2025-11-06 04:02:18 [2@DESKTOP-JUAN]
+Interno #1: Ejecutar queuednotificationclean
+2025-11-06 04:08:30 [2@DESKTOP-JUAN]
+Interno #1: Ejecutar mailgateerror
+2025-11-06 04:14:44 [2@DESKTOP-JUAN]
+Interno #1: Ejecutar certificate
+2025-11-06 04:19:56 [2@DESKTOP-JUAN]
+Interno #1: Ejecutar contract
+2025-11-06 04:25:40 [2@DESKTOP-JUAN]
+Interno #1: Ejecutar infocom
+2025-11-06 04:26:50 [@DESKTOP-JUAN]
+Interno #1: Ejecutar session

@@ -1,0 +1,11 @@
+[2025-09-10 14:30:17] glpiphplog.WARNING: Test logger  
+[2025-09-10 14:48:41] glpiphplog.WARNING: Test logger  
+[2025-09-10 15:07:39] glpiphplog.DEBUG: Html::compileScss() in C:\xampp\htdocs\glpi\src\Html.php line 6866
+Compile css/palettes/auror.scss  {"user":"@DESKTOP-JUAN"} 
+[2025-09-10 15:07:49] glpiphplog.WARNING: Test logger  
+[2025-09-10 15:11:35] glpiphplog.WARNING: Test logger  
+[2025-09-10 16:02:22] glpiphplog.WARNING: Test logger  
+[2025-09-11 05:20:07] glpiphplog.WARNING: Test logger  
+[2025-09-14 21:21:19] glpiphplog.WARNING: Test logger  
+[2025-09-17 19:31:12] glpiphplog.WARNING: Test logger  
+[2025-09-17 19:36:24] glpiphplog.WARNING: Test logger  

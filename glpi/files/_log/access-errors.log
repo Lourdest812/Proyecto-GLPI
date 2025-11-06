@@ -1,0 +1,2 @@
+2025-11-06 03:05:10 [2@DESKTOP-JUAN]
+CSRF check failed for User ID: 2 at /glpi/plugins/formcreator/ajax/question.php
